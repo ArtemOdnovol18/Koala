@@ -1,0 +1,45 @@
+[{
+    "taskId": "123e4567-e89b-12d3-a456-426614174000",
+    "name": "Follow Elon Musk",
+    "description": "Follow the CEO of Tesla and SpaceX to stay updated on technology and innovation.",
+    "value": "2100.00",
+    "url": "https://twitter.com/elonmusk",
+    "isMainTask": true,
+    "category": "in-game",
+    "icon": "https://picsum.photos/45/45",
+    "subTasks": [
+        { "taskId": "123e4567-e89b-12d3-a456-426614174001", "name": "Watch Never Gonna Give You Up", "value": "800.00", "url": "https://youtube.com/watch?v=dQw4w9WgXcQ", "icon": "https://picsum.photos/45/45" },
+        { "taskId": "123e4567-e89b-12d3-a456-426614174002", "name": "Follow Bill Gates", "value": "650.00", "url": "https://twitter.com/BillGates", "icon": "https://picsum.photos/45/45" },
+        { "taskId": "123e4567-e89b-12d3-a456-426614174003", "name": "Watch First YouTube Video", "value": "650.00", "url": "https://youtube.com/watch?v=jNQXAC9IVRw", "icon": "https://picsum.photos/45/45" }
+    ]
+},
+{
+    "taskId": "123e4567-e89b-12d3-a456-426614174004",
+    "name": "Follow Naval",
+    "description": "Follow Naval Ravikant for insights on technology, philosophy and wealth creation.",
+    "value": "2400.00",
+    "url": "https://twitter.com/naval",
+    "isMainTask": true,
+    "category": "partner",
+    "icon": "https://picsum.photos/45/45",
+    "subTasks": [
+        { "taskId": "123e4567-e89b-12d3-a456-426614174005", "name": "Watch Gangnam Style", "value": "950.00", "url": "https://youtube.com/watch?v=9bZkp7q19f0", "icon": "https://picsum.photos/45/45" },
+        { "taskId": "123e4567-e89b-12d3-a456-426614174006", "name": "Follow Jack Butcher", "value": "750.00", "url": "https://twitter.com/jackbutcher", "icon": "https://picsum.photos/45/45" },
+        { "taskId": "123e4567-e89b-12d3-a456-426614174007", "name": "Watch Python Tutorial", "value": "700.00", "url": "https://youtube.com/watch?v=M7lc1UVf-VE", "icon": "https://picsum.photos/45/45" }
+    ]
+},
+{
+    "taskId": "123e4567-e89b-12d3-a456-426614174008",
+    "name": "Follow Vitalik Buterin",
+    "description": "Follow the co-founder of Ethereum to learn about blockchain and cryptocurrency.",
+    "value": "2550.00",
+    "url": "https://twitter.com/VitalikButerin",
+    "isMainTask": true,
+    "category": "in-game",
+    "icon": "https://picsum.photos/45/45",
+    "subTasks": [
+        { "taskId": "123e4567-e89b-12d3-a456-426614174009", "name": "Watch Baby Shark Dance", "value": "850.00", "url": "https://youtube.com/watch?v=XqZsoesa55w", "icon": "https://picsum.photos/45/45" },
+        { "taskId": "123e4567-e89b-12d3-a456-426614174010", "name": "Follow SBF", "value": "900.00", "url": "https://twitter.com/SBF_FTX", "icon": "https://picsum.photos/45/45" },
+        { "taskId": "123e4567-e89b-12d3-a456-426614174011", "name": "Watch Despacito", "value": "800.00", "url": "https://youtube.com/watch?v=kJQP7kiw5Fk", "icon": "https://picsum.photos/45/45" }
+    ]
+}]
